@@ -1,0 +1,9 @@
+The first lesson of git.
+1.How to create git setup in your Laptop?
+
+
+
+D
+	checking updates "sudo apt update"
+	install git "sudo apt install git"
+	verify weather git installed or not "git --version"

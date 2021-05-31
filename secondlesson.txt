@@ -1,0 +1,17 @@
+2.How the Git process works?
+
+Ans)There are three stages in git setup.
+1.Working process.
+2.staging.
+3.Local repository.
+4.Remote repository.
+Des:
+	1.working: Where you create file and write the code or matter.
+
+	2.staging:Adding to stage "git add name of the file"
+
+
+
+	3.Localrepo: You have to commitfile her
+	4.Remote repo : Copy url and add to local repo
+End
